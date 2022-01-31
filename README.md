@@ -1,12 +1,5 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/92882494/151703416-c12fdea8-bc8e-44be-acd0-23c377ed3de2.png" /></p>
-
-<h3 align="center">Checkout My Resume</h3>
-
-<p align="center"><a href="https://www.google.com" target="_blank"><img width="100px" src="https://user-images.githubusercontent.com/92882494/151702043-705771bc-f453-4507-bd4b-545a05e774e4.svg" /></a></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/92882494/151779763-da6939af-366d-4bdb-8cb1-f762ad9427c0.svg" /></p>
 
 
-
-<p align="center"><img src="https://user-images.githubusercontent.com/92882494/151702215-d5942f54-e433-4513-a537-ee0a808814ed.png" /></p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/92882494/151701613-a1ae4c12-5cab-4406-bd21-00acee77b720.gif" /></p>
-
